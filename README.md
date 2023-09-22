@@ -89,4 +89,6 @@ In the final step of the troubleshooting process, you must document your finding
 
 
 RESULT:
+
+
 Thus the process of troubleshooting of OS is studied.
